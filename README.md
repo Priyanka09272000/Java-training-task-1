@@ -1,1 +1,1 @@
-# Java-training-task-1
+# Java-training-task-1.2
